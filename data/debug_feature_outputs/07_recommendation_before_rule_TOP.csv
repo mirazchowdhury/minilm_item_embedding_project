@@ -1,0 +1,21 @@
+﻿input_item,input_family,input_intent,candidate_item,candidate_family,candidate_intent,pair_count,pair_score,item_user_cosine_similarity,co_occurrence_cosine_similarity,minilm_text_cosine_similarity,combined_score_before_rule,business_rule_boost,combined_score_after_rule,same_type_penalty,hard_blocked,final_score_after_penalty
+Beef Without Bone Special,meat,meat_cooking,Beef Bone Full,meat,meat_cooking,91.0,1.0,0.379,0.7073,0.7908,0.653,0.0,0.653,0.35,False,0.4245
+Beef Without Bone Special,meat,meat_cooking,Cow Lever-K,meat,meat_cooking,44.0,0.8418,0.3958,0.928,0.3648,0.6162,0.0,0.6162,0.35,False,0.4005
+Beef Without Bone Special,meat,meat_cooking,Beef Kima,meat,meat_cooking,7.0,0.4599,0.5724,0.76,0.4713,0.5916,0.0,0.5916,0.35,False,0.3845
+Beef Without Bone Special,meat,meat_cooking,Cow Stomach-K,meat,meat_cooking,23.0,0.7028,0.3064,0.954,0.3823,0.5753,0.0,0.5753,0.35,False,0.374
+Beef Without Bone Special,meat,meat_cooking,Cow Lever Original-kg,meat,meat_cooking,4.0,0.3559,0.465,0.8564,0.3607,0.5452,0.0,0.5452,0.35,False,0.3544
+Beef Without Bone Special,meat,meat_cooking,Mutton (Special)-Kg,meat,meat_cooking,5.0,0.3963,0.4212,0.8688,0.3056,0.5286,0.0,0.5286,0.35,False,0.3436
+Beef Without Bone Special,meat,meat_cooking,Mutton(1),meat,meat_cooking,3.0,0.3066,0.5407,0.8071,0.2287,0.5231,0.0,0.5231,0.35,False,0.34
+Beef Without Bone Special,meat,meat_cooking,Prince Chicken Leg,chicken,meat_cooking,3.0,0.3066,0.5385,0.7684,0.287,0.5224,0.0,0.5224,0.0,False,0.5224
+Beef Without Bone Special,meat,meat_cooking,Shrimp Fish( Galda)-(TR),fish,fish_cooking,4.0,0.3559,0.516,0.8443,0.1582,0.5189,0.0,0.5189,0.0,False,0.5189
+Beef Without Bone Special,meat,meat_cooking,Chicken Soup (Deshi),chicken,meat_cooking,4.0,0.3559,0.3867,0.8899,0.2753,0.5108,0.0,0.5108,0.0,False,0.5108
+Beef Without Bone Special,meat,meat_cooking,Chicken (B-Skin),chicken,meat_cooking,7.0,0.4599,0.4155,0.7728,0.3095,0.5082,0.0,0.5082,0.0,False,0.5082
+Beef Without Bone Special,meat,meat_cooking,Mutton (Lever),meat,meat_cooking,1.0,0.1533,0.5816,0.8213,0.1733,0.5076,0.0,0.5076,0.35,False,0.3299
+Beef Without Bone Special,meat,meat_cooking,Aarong Yogurt Sour Curd-500gm,dairy,dessert_or_breakfast,9.0,0.5092,0.418,0.787,0.237,0.5062,0.0,0.5062,0.0,False,0.5062
+Beef Without Bone Special,meat,meat_cooking,Cucumber Deshi (kg),other,general,21.0,0.6836,0.4119,0.7659,0.1382,0.5041,0.0,0.5041,0.0,False,0.5041
+Beef Without Bone Special,meat,meat_cooking,Cock Roast (Deshi)-PC,chicken,meat_cooking,9.0,0.5092,0.3016,0.878,0.2729,0.4999,0.0,0.4999,0.0,False,0.4999
+Beef Without Bone Special,meat,meat_cooking,Chicken Deshi (Pakistani) Cock,chicken,meat_cooking,10.0,0.5303,0.2895,0.8474,0.2795,0.491,0.0,0.491,0.0,False,0.491
+Beef Without Bone Special,meat,meat_cooking,P. Chicken Breast,chicken,meat_cooking,4.0,0.3559,0.4504,0.7282,0.292,0.4879,0.0,0.4879,0.0,False,0.4879
+Beef Without Bone Special,meat,meat_cooking,Aarong Pasturized Liquid Milk-1Ltr Reg.,dairy,dessert_or_breakfast,11.0,0.5495,0.3865,0.7762,0.1707,0.4847,0.0,0.4847,0.0,False,0.4847
+Beef Without Bone Special,meat,meat_cooking,Wood Apple Small (Bell),other,general,3.0,0.3066,0.4433,0.79,0.2268,0.4835,0.0,0.4835,0.0,False,0.4835
+Beef Without Bone Special,meat,meat_cooking,Bangi Small- Kg,other,general,3.0,0.3066,0.5322,0.7064,0.1866,0.4815,0.0,0.4815,0.0,False,0.4815

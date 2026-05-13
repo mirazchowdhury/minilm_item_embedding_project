@@ -1,0 +1,10 @@
+#pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121
+#pip install "huggingface-hub==0.36.0"
+pandas
+numpy
+scikit-learn
+sentence-transformers
+torch
+tqdm
+joblib
+scipy

@@ -1,0 +1,20 @@
+Updated basket intent recommender
+
+Main changed file:
+src/step_05_basket_recommendation.py
+
+What was fixed:
+1. Basket level intent detection is used for multiple products.
+2. Food intent now blocks cleaning, personal care, toy, and unrelated items.
+3. Dessert intent no longer recommends detergent powder just because the word powder matches.
+4. Simplified item input now supports token based matching and fuzzy matching.
+5. Same family duplicate recommendations are reduced.
+
+Run:
+python src\step_05_basket_recommendation.py
+
+Example inputs:
+Beef Bone Full
+Beef Bone Full, Onion Deshi(New)-kg
+Pusti Suji -500g, Akher Sugar -1kg
+rice, potato

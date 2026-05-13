@@ -1,0 +1,21 @@
+input_item,candidate_item,candidate_family,pair_count,pair_score,item_user_cosine_similarity,co_occurrence_cosine_similarity,minilm_text_cosine_similarity,combined_score_before_penalty,same_type_penalty,final_score_after_penalty
+Chicken Deshi (Pakistani) Cock,Pigeon-1PC,other,13.0,0.5865,0.4705,0.9142,0.3839,0.6037,0.0,0.6037
+Chicken Deshi (Pakistani) Cock,Brinjal (Oval) Big-kg,other,12.0,0.57,0.474,0.7994,0.2821,0.5476,0.0,0.5476
+Chicken Deshi (Pakistani) Cock,Shrimp Fish Bagda,fish,46.0,0.8556,0.2467,0.8827,0.2899,0.5375,0.0,0.5375
+Chicken Deshi (Pakistani) Cock,Rui Fish-M-(MNK),fish,19.0,0.6657,0.2814,0.896,0.3285,0.5329,0.0,0.5329
+Chicken Deshi (Pakistani) Cock,Onion Deshi(New)-kg,cooking_essential,43.0,0.841,0.2284,0.8233,0.3974,0.5325,0.0,0.5325
+Chicken Deshi (Pakistani) Cock,Mutton (Lever),meat,2.0,0.2441,0.4767,0.9175,0.199,0.5185,0.0,0.5185
+Chicken Deshi (Pakistani) Cock,Beef Bone Full,meat,89.0,1.0,0.2169,0.7898,0.259,0.5146,0.0,0.5146
+Chicken Deshi (Pakistani) Cock,Shole Fish Big (THR),fish,16.0,0.6296,0.2897,0.8614,0.2972,0.5137,0.0,0.5137
+Chicken Deshi (Pakistani) Cock,Laita Shutki-200g,other,10.0,0.5329,0.3247,0.9048,0.2401,0.513,0.0,0.513
+Chicken Deshi (Pakistani) Cock,Green Chilli(kg),cooking_essential,42.0,0.8359,0.2395,0.8031,0.2963,0.5094,0.0,0.5094
+Chicken Deshi (Pakistani) Cock,Hilsha Fish-Medium-Pcs,fish,11.0,0.5522,0.3325,0.8661,0.2517,0.5094,0.0,0.5094
+Chicken Deshi (Pakistani) Cock,Mutton (Special)-Kg,meat,13.0,0.5865,0.2283,0.9325,0.3002,0.5077,0.0,0.5077
+Chicken Deshi (Pakistani) Cock,Katol Fish (Small)-(MNK),fish,8.0,0.4883,0.3618,0.8374,0.2786,0.5068,0.0,0.5068
+Chicken Deshi (Pakistani) Cock,Ready Koi Fish Deshi Medium,fish,6.0,0.4324,0.3682,0.7773,0.3904,0.505,0.0,0.505
+Chicken Deshi (Pakistani) Cock,Cow Lever Original-kg,meat,5.0,0.3982,0.3371,0.9385,0.2186,0.503,0.0,0.503
+Chicken Deshi (Pakistani) Cock,Roja Deshi Classic Paratha-1300gm,other,5.0,0.3982,0.4173,0.7421,0.3684,0.5021,0.0,0.5021
+Chicken Deshi (Pakistani) Cock,Potato Deshi New-1kg,cooking_essential,36.0,0.8025,0.1745,0.8048,0.3901,0.5009,0.0,0.5009
+Chicken Deshi (Pakistani) Cock,Cucumber (Hybrid)-kg,other,31.0,0.7702,0.3065,0.7825,0.2037,0.4983,0.0,0.4983
+Chicken Deshi (Pakistani) Cock,Rupchanda(Big)-(THR),other,7.0,0.4621,0.2877,0.849,0.366,0.4979,0.0,0.4979
+Chicken Deshi (Pakistani) Cock,Shrimp Fish Golda(Medium)-(STR),fish,9.0,0.5117,0.2702,0.8747,0.315,0.4967,0.0,0.4967

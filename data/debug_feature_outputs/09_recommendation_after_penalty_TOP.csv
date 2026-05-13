@@ -1,0 +1,21 @@
+﻿input_item,input_family,input_intent,candidate_item,candidate_family,candidate_intent,pair_count,pair_score,item_user_cosine_similarity,co_occurrence_cosine_similarity,minilm_text_cosine_similarity,combined_score_before_rule,business_rule_boost,combined_score_after_rule,same_type_penalty,hard_blocked,final_score_after_penalty
+Beef Without Bone Special,meat,meat_cooking,Prince Borhani-1000ml,beverage,snacks,5.0,0.3963,0.501,0.6911,0.1234,0.4668,0.3,0.7668,0.0,False,0.7668
+Beef Without Bone Special,meat,meat_cooking,Saad Hot Tomato Sauce-500gm,cooking_essential,daily_meal_cooking,1.0,0.1533,0.4641,0.6932,0.2401,0.4414,0.3,0.7414,0.0,False,0.7414
+Beef Without Bone Special,meat,meat_cooking,Prince Borhani-1.5Ltr,beverage,snacks,7.0,0.4599,0.4824,0.6327,0.0507,0.4378,0.3,0.7378,0.0,False,0.7378
+Beef Without Bone Special,meat,meat_cooking,Italiano Sweet Chilli Sauce-340g,cooking_essential,daily_meal_cooking,2.0,0.243,0.4215,0.7195,0.1656,0.433,0.3,0.733,0.0,False,0.733
+Beef Without Bone Special,meat,meat_cooking,Mountain Dew-600ml Pet,beverage,snacks,1.0,0.1533,0.4108,0.7539,0.1554,0.424,0.3,0.724,0.0,False,0.724
+Beef Without Bone Special,meat,meat_cooking,Pran Hot Tomato Sauce-340gm,cooking_essential,daily_meal_cooking,1.0,0.1533,0.3905,0.7399,0.1999,0.4216,0.3,0.7216,0.0,False,0.7216
+Beef Without Bone Special,meat,meat_cooking,Tomato Sour Deshi-B (kg),cooking_essential,daily_meal_cooking,3.0,0.3066,0.3683,0.6634,0.2344,0.4208,0.3,0.7208,0.0,False,0.7208
+Beef Without Bone Special,meat,meat_cooking,Revive Powder Sun Block-200gm,spice,daily_meal_cooking,2.0,0.243,0.4385,0.6973,0.1002,0.4192,0.3,0.7192,0.0,False,0.7192
+Beef Without Bone Special,meat,meat_cooking,Rupchanda Soyabean-2Lt-PET,oil,daily_meal_cooking,2.0,0.243,0.3564,0.6844,0.2506,0.4166,0.3,0.7166,0.0,False,0.7166
+Beef Without Bone Special,meat,meat_cooking,Coriander Leaf-200gm,cooking_essential,daily_meal_cooking,3.0,0.3066,0.4713,0.6338,0.0724,0.4155,0.3,0.7155,0.0,False,0.7155
+Beef Without Bone Special,meat,meat_cooking,Ruchi Tomato Sauce-350gm,cooking_essential,daily_meal_cooking,1.0,0.1533,0.4652,0.5877,0.256,0.4133,0.3,0.7133,0.0,False,0.7133
+Beef Without Bone Special,meat,meat_cooking,Teer Fortified Soyabean Oil 3Ltr,oil,daily_meal_cooking,4.0,0.3559,0.3545,0.6809,0.1548,0.4127,0.3,0.7127,0.0,False,0.7127
+Beef Without Bone Special,meat,meat_cooking,Radhuni Mustard Oil-500ml,oil,daily_meal_cooking,3.0,0.3066,0.4008,0.651,0.1485,0.4113,0.3,0.7113,0.0,False,0.7113
+Beef Without Bone Special,meat,meat_cooking,Pran hot Tomato Sauce-1000gm Jar,cooking_essential,daily_meal_cooking,2.0,0.243,0.4227,0.648,0.1493,0.4087,0.3,0.7087,0.0,False,0.7087
+Beef Without Bone Special,meat,meat_cooking,Prince Borhani-500ml,beverage,snacks,1.0,0.1533,0.4092,0.7148,0.1341,0.4075,0.3,0.7075,0.0,False,0.7075
+Beef Without Bone Special,meat,meat_cooking,Fresh Insta Full cream Milk Powder-500gm,spice,daily_meal_cooking,2.0,0.243,0.3458,0.6982,0.1871,0.4044,0.3,0.7044,0.0,False,0.7044
+Beef Without Bone Special,meat,meat_cooking,Pepsi (Diet) 600ml,beverage,snacks,1.0,0.1533,0.3525,0.7579,0.1499,0.4037,0.3,0.7037,0.0,False,0.7037
+Beef Without Bone Special,meat,meat_cooking,Mountan Dew-250ml Can,beverage,snacks,0.0,0.0,0.5,0.6605,0.1523,0.4036,0.3,0.7036,0.0,False,0.7036
+Beef Without Bone Special,meat,meat_cooking,Teer Soya Oil 2Lt(Bottle),oil,daily_meal_cooking,4.0,0.3559,0.3636,0.6438,0.1452,0.4028,0.3,0.7028,0.0,False,0.7028
+Beef Without Bone Special,meat,meat_cooking,Maggi Noodles Masala Blast-504g 8 Pack,spice,daily_meal_cooking,4.0,0.3559,0.2902,0.7017,0.1824,0.402,0.3,0.702,0.0,False,0.702
